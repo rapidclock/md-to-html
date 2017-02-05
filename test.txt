@@ -1,0 +1,61 @@
+# How to confuse *and* irritate people
+
+This book covers the popular topics on how to confuse and irritate others. 
+
+### Disclaimer
+
+You will be confused, maybe irritated, by the writings in this book. Achieving both emotions is the goal of the author.
+
+Answers inline 
+
+> What is the time line for the project? 
+
+We are aiming for the first on June.
+
+> What are the resources allocated? 
+> > Are you asking in terms of headcount or machines? 
+> > > Headcount
+
+We are budgeted for 40 people.   
+
+Mixing lists 
+
+1. one 
+1. two 
+  * inner one 
+  * inner two 
+    1. inner inner one
+    1. inner inner two
+  * inner three
+1. three 
+
+
+Another List
+
+1. one 
+1. two 
+*  inner one 
+*  inner two 
+1. inner inner one
+1. inner inner two
+*  inner three
+1. three 
+
+This concludes our parenthetical comment on irritating behaviour. 
+
+****
+
+But we could not stop ourselves from making another parenthetical comment here 
+
+******  
+
+Nesting parenthetical arguments in written word causes confusion, or does it? 
+
+****   Hello.
+
+So here is some *bold* text and some _italicized_ text.
+
+We can also have *_this_*, as well as well as _*this*_ and *this _th*ing_too*
+
+You can see an example [Confused](https://media.giphy.com/media/wi9yHmX7Sztuw/giphy.gif). 
+You can read more [here](https://en.wikipedia.org/wiki/Confusion)
